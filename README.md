@@ -1,8 +1,10 @@
 
 <h1 align="center">
-  Hi, I'm <a href="https://wuxinxin27.github.io/" target="_blank">Ruixin WU (武瑞鑫) 👋</a> <br>
+  Hi, I'm <a href="https://wuxinxin27.github.io/" target="_blank">Ruixin WU (武瑞鑫) 👋</a>
+  <br>
 	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/wuxinxin27">
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/wuxinxin27">
+  <br>
   <a href="https://wuxinxin27.github.io/" target="_blank" style="margin-top: 10px"><img src="https://wuxinxin27.github.io/files/institute/zju2.png" height="70px" style="margin-bottom:-1px"></a>
   <a href="https://wuxinxin27.github.io/" target="_blank"><img src="https://wuxinxin27.github.io/files/institute/hit2.png" height="70px" style="margin-bottom:-1px"></a>
 </h1>
