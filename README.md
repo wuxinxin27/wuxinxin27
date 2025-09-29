@@ -9,7 +9,7 @@
   <a href="https://wuxinxin27.github.io/" target="_blank"><img src="https://wuxinxin27.github.io/files/institute/hit2.png" height="70px" style="margin-bottom:-1px"></a>
 </h1>
 
-<h3>🏠 <b>[My Homepage](https://wuxinxin27.github.io)</b></h3>
+<h3>🏠 <b>Homepage</b>: <a href="https://wuxinxin27.github.io" target="_blank">wuxinxin27.github.io</a></h3>
 <p>Hi! I am <b>Ruixin Wu (Chinese name: 武瑞鑫)</b>, a three-year Master student at DreamLab@ZJU (since Sep. 2023). My research focuses on robotics (currently mainly UAV), including path planning, reinforcement learning, etc. Also has a strong interest in embodied AI.</p>
 
 <p  style="margin-top: -10px;">
