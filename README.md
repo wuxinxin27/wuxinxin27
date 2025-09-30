@@ -37,7 +37,7 @@
 > See [My Google Scholar Profile](https://scholar.google.com/citations?user=utiOMsMAAAAJ&hl=en) or [My Homepage](https://wuxinxin27.github.io) for more details.
 
 ## First / Co-first Author
-* **[arXiv 25]** Diffusion-Based mmWave Radar Point Cloud Enhancement Driven by Range Images, [Code](https://github.com/wuxinxin27/Radar-Range-Image-Diffusion) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/wuxinxin27/Radar-Range-Image-Diffusion">
+* **[arXiv 25]** Diffusion-Based mmWave Radar Point Cloud Enhancement Driven by Range Images, [Paper](https://arxiv.org/pdf/2503.02300v2) [Code](https://github.com/wuxinxin27/Radar-Range-Image-Diffusion) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/wuxinxin27/Radar-Range-Image-Diffusion">
 * **[ICM 25]** Multi-Quadrotor Cooperative Encirclement and Capture Approach in Obstacle Environments, [Paper](https://ieeexplore.ieee.org/abstract/document/10934904)
 
 ## Co-Author
